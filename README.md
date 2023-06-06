@@ -14,6 +14,6 @@
 ![test](https://github.com/Mardindeveloper/Mardindeveloper/assets/108567140/4b7d03e5-cd63-4b9f-9271-558d64200473)
 
 <h2 align="right">📞 تماس با من</h2>
-<img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-instagram-48.png?raw=true">
-<img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-linkedin-48.png?raw=true">
-<img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-telegram-48.png?raw=true">
+<a href="www.linkedin.com/in/mardindeveloper"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-linkedin-48.png?raw=true"></a>
+<a href="https://www.instagram.com/mardindeveloper/"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-instagram-48.png?raw=true"></a>
+<a href="https://t.me/mardindeveloper"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-telegram-48.png?raw=true"></a>
