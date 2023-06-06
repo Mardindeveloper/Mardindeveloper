@@ -17,4 +17,4 @@
 <a href="https://t.me/mardindeveloper"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-telegram-48.png?raw=true"></a>
 
 <h2 algin="right">🌱 در حال حاضر دارم اینا رو یادمیگرم</h2>
-![test](https://github.com/Mardindeveloper/Mardindeveloper/assets/108567140/4b7d03e5-cd63-4b9f-9271-558d64200473)
+<img src="https://github.com/Mardindeveloper/Mardindeveloper/assets/108567140/4b7d03e5-cd63-4b9f-9271-558d64200473">
