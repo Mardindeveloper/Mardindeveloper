@@ -37,6 +37,6 @@
 
 ## 📫 ارتباط با من
 
-<a href="https://www.linkedin.com/in/mardindeveloper">LinkedIn</a>  
-<a href="https://t.me/mardindeveloper">Telegram</a>  
-<a href="https://www.instagram.com/mardindeveloper/">Instagram</a>
+<a href="https://www.linkedin.com/in/mardindeveloper"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-linkedin-48.png?raw=true" alt="LinkedIn" title="LinkedIn"></a>  
+<a href="https://t.me/mardindeveloper"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-telegram-48.png?raw=true" alt="Telegram" title="Telegram"></a>  
+<a href="https://www.instagram.com/mardindeveloper/"><img src="https://github.com/Mardindeveloper/Mardindeveloper/blob/main/image/icons8-instagram-48.png?raw=true" alt="Instagram" title="Instagram"></a>
